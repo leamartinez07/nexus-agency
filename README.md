@@ -1,5 +1,7 @@
 # Nexus Agency
 
+> Portfolio project by [Leandro Martinez](https://leandromartinez.vercel.app) · [GitHub](https://github.com/leamartinez07)
+
 Custom landing page built with WordPress and PHP. Developed as a portfolio project to demonstrate front-end skills within the WordPress ecosystem.
 
 ## Features
